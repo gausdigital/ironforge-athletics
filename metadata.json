@@ -1,0 +1,6 @@
+{
+  "name": "IRONFORGE ATHLETICS - Premium Strength & Performance Club",
+  "description": "Build your stronger self. A world-class international strength, bodybuilding, fitness, and athletic performance club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
